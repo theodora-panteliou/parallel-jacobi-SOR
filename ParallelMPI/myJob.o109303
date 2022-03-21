@@ -1,0 +1,13 @@
+mpiP: 
+mpiP: mpiP V3.5.0 (Build Nov 11 2020/13:45:15)
+mpiP: 
+
+ # procs = 64
+26880,26880
+Iterations= 50 Elapsed MPI Wall time is 14.229034
+Time 14.298579 
+Residual 1.65078e-13
+The sum error of the iterative solution is is 1.98405e-05
+mpiP: 
+mpiP: Storing mpiP output in [./mpijac.x.64.1563229.1.mpiP].
+mpiP: 
