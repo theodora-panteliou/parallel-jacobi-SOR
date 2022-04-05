@@ -18,6 +18,6 @@ Implemented for 1 and 2 GPUs. The main loop now calls a function that runs on CU
 * https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#atomic-functions
 * Code and slides from the course "Parallel Systems" at DIT, NKUA.
 
-# Authors
+## Authors
 * [Dora Panteliou](https://github.com/dora-jpg)
 * [Ioannis Karakolis](https://github.com/sdi1800065)
